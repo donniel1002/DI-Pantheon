@@ -1,0 +1,44 @@
+.nav{
+        border-style: none;
+    }
+.imgbig1 {
+position: absolute;
+z-index: -1;
+    }
+.imgbig2 {
+position: absolute;
+z-index: -2;
+max-width: 1868px;
+max-height: 1500px;
+margin-left: -8px;
+margin: right;
+    }
+.imgbig3{
+    position: absolute;
+    z-index: -2;
+    margin-left: -1%;
+    margin-top: -7%;
+}
+
+
+.container-fluid{
+    /* position: absolute; */
+    bottom: -100px;
+    width: 100%;
+
+} 
+.container-fluid .btn-group{
+    width: 500px;
+    margin: 0 auto;
+    font-family: "Trirong", serif;
+    color: #a944a9;
+
+} 
+.btn-group{
+    top:100rem;
+    left:58px;
+}
+
+.btn{
+    margin:0rem 2rem 0rem 0rem;
+}
